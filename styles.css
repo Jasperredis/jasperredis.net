@@ -7,10 +7,17 @@ body {
 	align-items: center;
 	flex-direction: column;
 	font-family: Libertinus Mono;
+	background-image: url("./images/bg.png");
+	background-attachment: fixed;
 }
 
-header {
+main, footer {
+	background-color: #ffffff;
+}
+main, footer, header {
 	padding: 0 2% 0 2%;
+}
+header {
 	background-color: #be1f77;
 	color: #ffffff;
 }
