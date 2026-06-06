@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Libertinus+Mono&display=swap');
+
+body {
+	display: flex;
+	margin: 0 25% 0 25%;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	font-family: Libertinus Mono;
+}
+
+header {
+	padding: 0 2% 0 2%;
+	background-color: #be1f77;
+	color: #ffffff;
+}
+header a {
+	color: #ffffff;
+}
