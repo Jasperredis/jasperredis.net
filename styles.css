@@ -10,17 +10,11 @@ body {
 	background-image: url("./images/bg.png");
 	background-attachment: fixed;
 }
-
-main, footer {
-	background-color: #ffffff;
-}
-main, footer, header {
-	padding: 0 2% 0 2%;
-}
+main, footer { background-color: #ffffff; }
+main, footer, header { padding: 0 2% 0 2%; }
+header a { color: #ffffff; }
 header {
 	background-color: #be1f77;
 	color: #ffffff;
 }
-header a {
-	color: #ffffff;
-}
+.flag { border: 2px solid #555; }
