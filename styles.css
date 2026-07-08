@@ -12,7 +12,7 @@ body {
 }
 main, footer { background-color: #ffffff; }
 main, footer, header { padding: 0 2% 0 2%; }
-main { margin: 0 25% 0 25%; }
+main { margin: 0 5% 0 5%; }
 header a { color: #ffffff; }
 header {
 	background-color: #be1f77;
